@@ -17,8 +17,19 @@ These instructions will get you a copy of the project up and running on your loc
 Fork and clone the project, then run 
 
 ```
+npm install
+# or
 npm i
 ```
+
+### Development
+
+```
+npm start
+```
+
+Will fire up development server, making the local site viewable on http://localhost:3000/.
+
 
 ## Build with
 
@@ -34,6 +45,12 @@ npm i
 This site automatically deploy when detected a commit to `master` branch via Netlify. 
 
 You can also see if the deploy will be successful when making a Pull Request.
+
+Netlify will used this command to package up the site for deployment
+
+```
+npm run build
+```
 
 ## Authors
 
