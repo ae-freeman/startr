@@ -6,13 +6,17 @@ sharing podcasts and interviews with people in all sorts of jobs.
 
 This site uses node.js and is deployed on Netlify. 
 
-The npm modules that need to be installed to run the app:
+## Learning
 
-* express
-* ejs
-* body-parser
-* request
-* mongoose
+- Node.js
+- Front-end HTML, CSS, Javascript
+- Express
+- Ejs (templating)
+- Database: MongoDB
+- body-parser
+- request
+- mongoose
+- Using APIs
 
 
 
