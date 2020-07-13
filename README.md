@@ -1,4 +1,4 @@
-# startr
+# Startr
 
 Startr is a business co-founded by two university students that aims to guide young people towards their dream career, 
 sharing podcasts and interviews with people in all sorts of jobs. 
