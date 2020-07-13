@@ -4,7 +4,7 @@ Startr is a business co-founded by two university students that aims to guide yo
 sharing podcasts and interviews with people in all sorts of jobs. 
 
 
-This site uses node.js and is deployed on Netlify. 
+This site uses node.js and is deployed on Heroku. 
 
 ## Learning
 
